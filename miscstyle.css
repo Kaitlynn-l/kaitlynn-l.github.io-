@@ -1,0 +1,57 @@
+
+img{
+    Max-width: 25%;
+    max-height:12%;
+}
+.i4{
+    max-width:100%;
+    max-height: 85%;
+    
+}
+.i5{
+    max-width: 650%;
+    max-height: 650%;
+    
+}
+figcaption{
+    font: size 30px;
+}
+    
+*{
+
+    padding:0;
+    box-sizing:border-box;
+    display:flex;
+    flex-direction:column;
+    }
+    header{
+    background-color:rebeccapurple;
+    color:mistyrose;
+    font-size: 25;
+    }
+    main{
+    background-color:hotpink;
+    }
+    p{
+    color:black;
+    }
+    h1{
+    color:navy;
+    font-size:28px;
+    }
+    h2{
+    color:mediumorchid;
+    font-size:19;
+    }
+    a{
+        color:mistyrose;
+
+        font-size:medium;
+    }
+    footer{
+    background-color:rebeccapurple;
+    color:mistyrose;
+    font-size: 20;
+    }
+    
+    
